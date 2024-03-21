@@ -10,7 +10,3 @@ Author: [Abhijay Rajvansh](https://x.com/rajvanshtwt)
 - AWS and Vercel
 - MDX
 - Industry Best Practices
-
-## AI Generated Toddler Version of Myself:
-
-![aiToddlerVersionofAbhijayRajvansh](https://www.abhijayrajvansh.com/_next/image?url=%2FaiToddlerVersionofAbhijay.webp&w=1920&q=75)
