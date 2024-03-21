@@ -1,17 +1,16 @@
-# Repo Name
+# GitOps v1.0.1
 
-Author: [Abhijay Rajvansh](https://x.com/rajvanshtwt).
+Author: [Abhijay Rajvansh](https://x.com/rajvanshtwt)
 
 ## Technologies Used:
 
-- Next.Js/React
-- TailwindCSS
-- Heroicons
-- TypeScript
-- Node.Js
-- Weather API
-- Axios
+- Git
+- GitHub
+- Dotfiles
+- AWS and Vercel
+- MDX
+- Industry Best Practices
 
-## Screenshot of the live app:
+## AI Generated Toddler Version of Myself:
 
-![Text](Link To Image)
+![aiToddlerVersionofAbhijayRajvansh](https://www.abhijayrajvansh.com/_next/image?url=%2FaiToddlerVersionofAbhijay.webp&w=1920&q=75)
